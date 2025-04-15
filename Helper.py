@@ -13,7 +13,7 @@ from langchain.chains.question_answering import load_qa_chain
 from io import BytesIO
 
 import streamlit as st
-os.environ["GOOGLE_API_KEY"] = st.secrets["GOOGLE_API_KEY"]
+# os.environ["GOOGLE_API_KEY"] = st.secrets["GOOGLE_API_KEY"]
 
 
 #saved the Google api key in env file
