@@ -38,6 +38,4 @@ pip install -r requirements.txt
 
 ---
 
-Just copy and paste this into your `README.md` file and you’re good to go 🚀  
-Let me know if you want badges (like `Made with Streamlit`, `License`, etc.) too!
 
