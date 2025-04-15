@@ -2,6 +2,8 @@
 
 A Streamlit-based app that allows users to upload PDFs and chat with the content using Google's Gemini LLM. Powered by LangChain and FAISS for efficient text retrieval and vector search.
 
+🚀 **Live Demo**: [Click here to try the app](https://chatpdf-using-rag-9pf2jebvowxw2gmpuz2l7b.streamlit.app/)
+
 ---
 
 ## 🚀 Features
