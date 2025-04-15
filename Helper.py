@@ -100,15 +100,3 @@ def user_input(user_question):
     return response , docs
 
     
-# def load_in_db():#This function loads all the text and do the pre-processing Stuff !
-    # all_text = ""
-    # all_text += extract_text_from_pdf('Cracking the Granularity Problem - Siluet Case Study.pdf')
-    # all_text += extract_text_from_pdf('Proving Efficacy of Marketing Mix Model through the Difference in Difference (DID) Technique.pdf')
-    # all_text += extract_text_from_url('https://open.substack.com/pub/arymalabs/p/marketing-mix-modeling-mmm-101?r=2p7455&utm_campaign=post&utm_medium=web')
-    # all_text += extract_text_from_url('https://open.substack.com/pub/arymalabs/p/market-mix-modeling-101-part-2?r=2p7455&utm_campaign=post&utm_medium=web')
-    # all_text += extract_text_from_url('https://open.substack.com/pub/arymalabs/p/why-you-cant-rct-marketing-mix-models?r=2p7455&utm_campaign=post&utm_medium=web')
-    # all_text += extract_text_from_pdf('Investigation of Marketing Mix Models Business Error using KL Divergence and Chebyshev.pdf')
-    # print(all_text)
-    # text_chunks = get_text_chunks(all_text)
-    # print(text_chunks)
-    # get_vector_store(text_chunks)
